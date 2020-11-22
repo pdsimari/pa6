@@ -26,8 +26,28 @@ The problem will be different for each team. Once your team has chosen a dataset
 # Program Outputs: [What information do you display for the user?]
 ```
 
+##Requirements for Presentation:
+
+* Must use **PowerPoint slides** containing the following (in order):
+
+	1. Title slide with name of project and presenters
+	2. Description of chosen problem, dataset, and questions answered
+	3. Discussion of each question asked about the data:
+		* Show results obtained including graphs and interpret them. You may include other relevant graphics (e.g. map of Baltimore neighborhoods for Baltimore datasets).
+		* If a question requires user input, choose an input value that gives interesting results to present.
+	4. Brief statement of what you found easy, what you found difficult, and what you would do differently next time.
+
+* **Each person should do similar amount of presenting**, including presenting results from their own calculation functions.
+
+* Each group will be allotted **5 minutes** total.
+
+**Grading**: You will be graded on how well you meet the above guidelines, including how well you communicate your results and stay within the allotted time.
+
+**Practice your presentation**: work through multiple iterations to get the right length. Be clear and concise without leaving out important information.
+
 ## Submission
 
 * GitHub: Completed .py file (including comments).
+* Moodle: Your PowerPoint slides. 
 
 This assignment does **not** require a flowchart or test cases.
