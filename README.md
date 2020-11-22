@@ -2,7 +2,7 @@
 
 **Due:** Mon Dec 7, 10am
 
-**Note** This assignment will include a separate **presentation** component. A Moodle entry will contain the presentation requirements and allow for its submission.
+**Note** This assignment will include a separate **presentation** component. See the section below for presentation requirements.
 
 ## Problem
 
@@ -26,7 +26,7 @@ The problem will be different for each team. Once your team has chosen a dataset
 # Program Outputs: [What information do you display for the user?]
 ```
 
-##Requirements for Presentation:
+## Requirements for Presentation:
 
 * Must use **PowerPoint slides** containing the following (in order):
 
